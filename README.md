@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Manmohan-cripto
 - 👀 I’m interested in devops
-- 🌱 I’m currently learning kubernetes
+- 🌱 I’m currently learning :kubernetes
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
